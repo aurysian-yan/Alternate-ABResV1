@@ -1,0 +1,45 @@
+{
+  "item": {
+    "name": "数字交替Alternate",
+    "description": "灵感来源于 Xiaomi 17 Pro 背屏主题。 清晰的数字结构，让你在抬腕的瞬间，迅速读到重点。",
+    "preview": [],
+    "icon": "icon.png",
+    "source_url": "",
+    "author": [
+      {
+        "name": "安龙Aurysian",
+        "author_url": "https://afdian.com/a/urysianyan"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.0.0",
+      "file_name": "BINRes/N66.bin"
+    },
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "BINRes/N67.bin"
+    },
+    "o66": {
+      "version": "1.0.0",
+      "file_name": "BINRes/O66.bin"
+    },
+    "o66nfc": {
+      "version": "1.0.0",
+      "file_name": "BINRes/O66.bin"
+    },
+    "o65": {
+      "version": "1.0.0",
+      "file_name": "BINRes/O65.bin"
+    },
+    "p65": {
+      "version": "1.0.0",
+      "file_name": "BINRes/P65.bin"
+    },
+    "o65m": {
+      "version": "1.0.0",
+      "file_name": "BINRes/O65.bin"
+    }
+  }
+}
