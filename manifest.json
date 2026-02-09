@@ -2,7 +2,13 @@
   "item": {
     "name": "数字交替Alternate",
     "description": "灵感来源于 Xiaomi 17 Pro 背屏主题。 清晰的数字结构，让你在抬腕的瞬间，迅速读到重点。",
-    "preview": [],
+    "preview": [
+      "preview-0.png",
+      "preview-1.png",
+      "preview-2.png",
+      "preview-3.png",
+      "preview-4.png"
+    ],
     "icon": "icon.png",
     "source_url": "",
     "author": [
